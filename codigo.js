@@ -1,7 +1,7 @@
 const yesBtn=document.querySelector("#yes-btn");
 yesBtn.addEventListener('click',function(){
 
-    alert('ahora somos novios, te dare lo mejor de mi')
+    alert('Now we are boyfriends, I will give you the best of me')
 })
 
 
